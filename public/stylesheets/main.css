@@ -1,0 +1,44 @@
+body {
+    background: white;
+}
+.thumbnail img {
+    width: 100%;
+}
+.thumbnail {
+    padding: 0;
+}
+.thumbnail .caption-full {
+    padding: 9px;
+}
+#delete-form {
+    display: inline;
+}
+
+.delete-form {
+    display: inline;
+}
+.jumbotron {
+    background: skyblue;
+}
+.navbar-brand {
+    color: oldlace;
+    size: 2em;
+}
+.navbar-default {
+    background-color: skyblue;
+    border-color: #e7e7e7;
+}
+.navbar-default .navbar-brand {
+    color: black;
+}
+.navbar-default .navbar-nav>li>a {
+    color: black;
+}
+#map {
+    height: 400px;
+    width: 100%;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #555;
+    background-color: palegoldenrod;
+}
